@@ -1,0 +1,13 @@
+.container {
+    width: 350px;
+}
+
+.input-group-text {
+    display: inline-block;
+    width:90px;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
